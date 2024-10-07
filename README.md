@@ -32,9 +32,9 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 
 | Project  | Description  | Tech  | Demo  |
 |----------|--------------|-------|-------|
-| **📱 [Flutter App]** | A feature-rich mobile app | Flutter | [Live Demo](https://github.com/yourprojectlink) |
-| **🌐 [Web App]** | Scalable web application with Flask and Django | Flask, Django | [Live Demo](https://github.com/yourprojectlink) |
-| **🤖 [ML/NLP Model]** | AI-driven NLP model using SpaCy & TensorFlow | TensorFlow, SpaCy | [Live Demo](https://github.com/yourprojectlink) |
+| **📱 [Flutter App]** | A feature-rich mobile app | Flutter | [Live Demo]() |
+| **🌐 [Web App]** | Scalable web application with Flask and Django | Flask, Django | [Live Demo]() |
+| **🤖 [ML/NLP Model]** | AI-driven NLP model using SpaCy & TensorFlow | TensorFlow, SpaCy | [Live Demo]() |
 
 ---
 
@@ -55,8 +55,8 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikFZ&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikFZ&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
 
 ---
