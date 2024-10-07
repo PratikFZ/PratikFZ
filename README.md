@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]!
+# 👋 Hey there! I'm *PRATIK*!
 
 ![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
@@ -24,7 +24,7 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 | **HTML/CSS** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"/> |
 | **JavaScript** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/> |
 | **TensorFlow** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="30"/> |
-| **SpaCy** | ⭐⭐⭐⭐ | ![SpaCy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png) |
+| **SpaCy** | ⭐⭐⭐⭐ | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="SpaCy" width="30"/> |
 
 ---
 
