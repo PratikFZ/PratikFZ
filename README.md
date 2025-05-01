@@ -18,11 +18,10 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 | Tech | Expertise | Icon |
 |------------|----------|----------|
 | **Flutter** | ⭐⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="30"/> |
+| **C/C++** | ⭐⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/cpp.png" alt="cpp" width="30"/> |
 | **Flask** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="30"/> |
-| **Django** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="30"/> |
-| **Node.js** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="30"/> |
+| **Kotlin** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="30"/> |
 | **HTML/CSS** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"/> |
-| **JavaScript** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30"/> |
 | **TensorFlow** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="30"/> |
 | **SpaCy** | ⭐⭐⭐⭐ | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="SpaCy" width="30"/> |
 
@@ -32,7 +31,7 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 
 | Project  | Description  | Tech  | Demo  |
 |----------|--------------|-------|-------|
-| **📱 [Flutter App]** | A feature-rich mobile app | Flutter | [Live Demo]() |
+| **📱 Medicine Helper** | A feature-rich mobile app | Flutter | [Live Demo]() |
 | **🌐 [Web App]** | Scalable web application with Flask and Django | Flask, Django | [Live Demo]() |
 | **🤖 [ML/NLP Model]** | AI-driven NLP model using SpaCy & TensorFlow | TensorFlow, SpaCy | [Live Demo]() |
 
