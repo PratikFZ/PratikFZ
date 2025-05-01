@@ -18,7 +18,7 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 | Tech | Expertise | Icon |
 |------------|----------|----------|
 | **Flutter** | ⭐⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="30"/> |
-| **C/C++** | ⭐⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/cpp.png" alt="cpp" width="30"/> |
+| **C/C++** | ⭐⭐⭐⭐⭐ | <img src="https://icons8.com/icon/40669/c%2B%2B" alt="cpp" width="30"/> |
 | **Flask** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" width="30"/> |
 | **Kotlin** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="30"/> |
 | **HTML/CSS** | ⭐⭐⭐⭐ | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"/> |
