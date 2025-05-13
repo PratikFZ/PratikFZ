@@ -31,9 +31,9 @@ I am a **Full-Stack Developer** 🚀 with a passion for **AI/ML** and creating c
 
 | Project  | Description  | Tech  | Demo  |
 |----------|--------------|-------|-------|
-| **📱 Medicine Helper** | A feature-rich mobile app | Flutter | [Live Demo]() |
-| **🌐 [Web App]** | Scalable web application with Flask and Django | Flask, Django | [Live Demo]() |
-| **🤖 [ML/NLP Model]** | AI-driven NLP model using SpaCy & TensorFlow | TensorFlow, SpaCy | [Live Demo]() |
+| **📱 Medicine Helper** | A feature-rich mobile app | Flutter | [Live Demo](https://pratikfz.github.io/my-portfolio/#projects) |
+| **🌐 [Web App]** | Scalable web application with Flask and Django | Flask, Django | [Live Demo](https://pratikfz.github.io/my-portfolio/#projects) |
+| **🤖 [ML/NLP Model]** | AI-driven NLP model using SpaCy & TensorFlow | TensorFlow, SpaCy | [Live Demo](https://pratikfz.github.io/my-portfolio/#projects) |
 
 ---
 
