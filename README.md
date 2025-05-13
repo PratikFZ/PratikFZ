@@ -38,10 +38,15 @@ I am a Full-Stack Developer 🚀 with a passion for AI/ML and creating cutting-e
   <img src="https://github-readme-stats.vercel.app/api?username=PratikFZ&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikFZ&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
+
 ---
 ### 🌍 Let’s Connect & Collaborate!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-rajput-214427258)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-rajput-214427258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikFZ)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PratikFZ)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikfz.github.io/my-portfolio)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikfz.github.io/my-portfolio/)
 ![Thank You GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif)
+<!---
+PratikFZ/PratikFZ is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
