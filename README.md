@@ -1,4 +1,11 @@
 # 👋 Hey there! I'm PRATIK!
+
+### 🌍 Let’s Connect & Collaborate!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-rajput-214427258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikFZ)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikfz.github.io/my-portfolio/)
+
 ![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 ## 🚀 About Me
 I am a Full-Stack Developer 🚀 with a passion for AI/ML and creating cutting-edge applications. I love working with both mobile and web technologies and am always looking for new challenges to tackle.
@@ -40,11 +47,6 @@ I am a Full-Stack Developer 🚀 with a passion for AI/ML and creating cutting-e
 </p>
 
 ---
-### 🌍 Let’s Connect & Collaborate!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-rajput-214427258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikFZ)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pratikfz.github.io/my-portfolio/)
 ![Thank You GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif)
 <!---
 PratikFZ/PratikFZ is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
